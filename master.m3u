@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Set-7",&PRIVE HD-Rs 19
+#EXTINF:-1 group-title="Set-7",&PRIVE HD
 http://221.120.219.118:9800/play/a149
-#EXTINF:-1 group-title="Set-7",&flix HD-Rs 19
+#EXTINF:-1 group-title="Set-7",&flix HD
 http://221.120.219.118:9800/play/a13e
-#EXTINF:-1 group-title="Set-7",&pictures HD -Rs 19
+#EXTINF:-1 group-title="Set-7",&pictures HD 
 http://221.120.219.118:9800/play/a143
-#EXTINF:-1 group-title="Set-7",ANIMAL PLAN HD-Rs 3
+#EXTINF:-1 group-title="Set-7",ANIMAL PLAN HD
 http://221.120.219.118:9800/play/a13y
 #EXTINF:-1 group-title="Set-7",ARYDigitalAsia HD
 http://221.120.219.118:9800/play/a14c
@@ -17,22 +17,21 @@ http://221.120.219.118:9800/play/a14f
 http://221.120.219.118:9800/play/a14d
 #EXTINF:-1 group-title="Set-7",ARYZindagi
 http://221.120.219.118:9800/play/a14a
-#EXTINF:-1 group-title="Set-7",CARTOON- Rs 4.25
+#EXTINF:-1 group-title="Set-7",CARTOON
 http://221.120.219.118:9800/play/a123
-#EXTINF:-1 group-title="Set-7",Colors HD-Rs 19
+#EXTINF:-1 group-title="Set-7",Colors HD
 http://221.120.219.118:9800/play/a13d
-#EXTINF:-1 group-title="Set-7",Disney Chan-Rs 8
+#EXTINF:-1 group-title="Set-7",Disney Chan
 http://221.120.219.118:9800/play/a125
-#EXTINF:-1 group-title="Set-7",Disney Jr.-Rs 4
+#EXTINF:-1 group-title="Set-7",Disney Jr
 http://221.120.219.118:9800/play/a129
 #EXTINF:-1 group-title="Set-7",Geo News
 http://221.120.219.118:9800/play/a14h
 #EXTINF:-1 group-title="Set-7",MAX HD -Rs 17
 http://221.120.219.118:9800/play/a12u
-#EXTINF:-1 group-title="Set-7",NAT Geo Wild HD-Rs 5
+#EXTINF:-1 group-title="Set-7",NAT Geo Wild HD
 http://221.120.219.118:9800/play/a12v
-#EXTINF:-1 group-title="Set-7",PIX HD - Rs 15
-http://221.120.219.118:9800/play/a142
+#EXTINF:-1 group-title="Set-7",PIX HD
 #EXTINF:-1 group-title="Set-7",PTV-Home
 http://221.120.219.118:9800/play/a14p
 #EXTINF:-1 group-title="Set-7",PTV-NEWS HD
@@ -41,105 +40,99 @@ http://221.120.219.118:9800/play/a14q
 http://221.120.219.118:9800/play/a14r
 #EXTINF:-1 group-title="Set-7",PTV-World
 http://221.120.219.118:9800/play/a14s
-#EXTINF:-1 group-title="Set-7",Pogo - Rs 4.25
+#EXTINF:-1 group-title="Set-7",Pogo 
 http://221.120.219.118:9800/play/a12b
-#EXTINF:-1 group-title="Set-7",SIX HD - Rs 19
+#EXTINF:-1 group-title="Set-7",SIX HD 
 http://221.120.219.118:9800/play/a12s
-#EXTINF:-1 group-title="Set-7",SONIC- Rs 2
+#EXTINF:-1 group-title="Set-7",SONIC
 http://221.120.219.118:9800/play/a12a
-#EXTINF:-1 group-title="Set-7",STAR WOR P HD-Rs 9
+#EXTINF:-1 group-title="Set-7",STAR WOR P HD
 http://221.120.219.118:9800/play/a12n
-#EXTINF:-1 group-title="Set-7",STAR WORLD HD -Rs 9
+#EXTINF:-1 group-title="Set-7",STAR WORLD HD 
 http://221.120.219.118:9800/play/a12o
-#EXTINF:-1 group-title="Set-7",Sony BBC EarHD-Rs 10
-http://221.120.219.118:9800/play/a141
-#EXTINF:-1 group-title="Set-7",Sony Ten 1 HD- Rs 19
+#EXTINF:-1 group-title="Set-7",Sony BBC EarHD
+#EXTINF:-1 group-title="Set-7",Sony Ten 1 HD
 http://221.120.219.118:9800/play/a12r
-#EXTINF:-1 group-title="Set-7",Sony Ten 2 HD- Rs 17
-http://221.120.219.118:9800/play/a146
-#EXTINF:-1 group-title="Set-7",Sony Ten 3 HD- Rs 17
-http://221.120.219.118:9800/play/a137
-#EXTINF:-1 group-title="Set-7",Star GOLD HD -Rs 10
-http://221.120.219.118:9800/play/a13z
-#EXTINF:-1 group-title="Set-7",Star Gold S-Rs 7
+#EXTINF:-1 group-title="Set-7",Sony Ten 2 HD
+#EXTINF:-1 group-title="Set-7",Sony Ten 3 HD
+#EXTINF:-1 group-title="Set-7",Star GOLD HD 
+#EXTINF:-1 group-title="Set-7",Star Gold 
 http://221.120.219.118:9800/play/a12l
-#EXTINF:-1 group-title="Set-7",Star Gold SelHD-Rs 10
+#EXTINF:-1 group-title="Set-7",Star Gold SelHD
 http://221.120.219.118:9800/play/a140
-#EXTINF:-1 group-title="Set-7",Star Plus HD -Rs 19
+#EXTINF:-1 group-title="Set-7",Star Plus HD
 http://221.120.219.118:9800/play/a13b
-#EXTINF:-1 group-title="Set-7",Star S Hin 1 HD- Rs 19
+#EXTINF:-1 group-title="Set-7",Star S Hin 1 HD
 http://221.120.219.118:9800/play/a12t
-#EXTINF:-1 group-title="Set-7",Star Spo 1 HD-Rs 19
+#EXTINF:-1 group-title="Set-7",Star Spo 1 HD
 http://221.120.219.118:9800/play/a12p
-#EXTINF:-1 group-title="Set-7",Star Spo 2 HD- Rs 19
+#EXTINF:-1 group-title="Set-7",Star Spo 2 HD
 http://221.120.219.118:9800/play/a12q
-#EXTINF:-1 group-title="Set-7",Star Sports 3- Rs 4
+#EXTINF:-1 group-title="Set-7",Star Sports 
 http://221.120.219.118:9800/play/a138
-#EXTINF:-1 group-title="Set-7",Star Sports S 1 HD-Rs 19
+#EXTINF:-1 group-title="Set-7",Star Sports 
 http://221.120.219.118:9800/play/a144
-#EXTINF:-1 group-title="Set-7",Star Sports S 2 HD-Rs 10
+#EXTINF:-1 group-title="Set-7",Star Sports 
 http://221.120.219.118:9800/play/a145
-#EXTINF:-1 group-title="Set-7",Star Utsav-Rs 1
+#EXTINF:-1 group-title="Set-7",Star Utsav
 http://221.120.219.118:9800/play/a13p
-#EXTINF:-1 group-title="Set-7",ZEE ANMOL-Rs 10p
+#EXTINF:-1 group-title="Set-7",ZEE ANMOL
 http://221.120.219.118:9800/play/a13r
-#EXTINF:-1 group-title="Set-7",ZEE CINEMA HD-Rs 19
+#EXTINF:-1 group-title="Set-7",ZEE CINEMA HD
 http://221.120.219.118:9800/play/a13x
-#EXTINF:-1 group-title="Set-7",ZEE TV HD-Rs 19
+#EXTINF:-1 group-title="Set-7",ZEE TV HD
 http://221.120.219.118:9800/play/a13c
-#EXTINF:-1 group-title="Set-7",colors rishtey -Rs 1
+#EXTINF:-1 group-title="Set-7",colors rishtey 
 http://221.120.219.118:9800/play/a13n
-#EXTINF:-1 group-title="Set-7",hungama tv-Rs 6
+#EXTINF:-1 group-title="Set-7",hungama tv
 http://221.120.219.118:9800/play/a124
-#EXTINF:-1 group-title="Set-7",nick - Rs 6
-http://221.120.219.118:9800/play/a126
-#EXTINF:-1 group-title="Set-7",nick HD+- Rs 10
+#EXTINF:-1 group-title="Set-7",nick 
+#EXTINF:-1 group-title="Set-7",nick HD+
 http://221.120.219.118:9800/play/a147
 
 #EXTM3U
-#EXTINF:-1 group-title="Set-6",&PRIVE HD-Rs 19
+#EXTINF:-1 group-title="Set-6",&PRIVE HD
 http://180.178.188.152:8000/play/a01d
-#EXTINF:-1 group-title="Set-6",&flix HD-Rs19
+#EXTINF:-1 group-title="Set-6",&flix HD
 http://180.178.188.152:8000/play/a00p
-#EXTINF:-1 group-title="Set-6",&pictures HD -Rs19
+#EXTINF:-1 group-title="Set-6",&pictures HD 
 http://180.178.188.152:8000/play/a017
-#EXTINF:-1 group-title="Set-6",&tv HD - Rs 19
+#EXTINF:-1 group-title="Set-6",&tv HD 
 http://180.178.188.152:8000/play/a01u
-#EXTINF:-1 group-title="Set-6",ANIMAL PLAN HD-Rs3
+#EXTINF:-1 group-title="Set-6",ANIMAL PLAN HD
 http://180.178.188.152:8000/play/a011
 #EXTINF:-1 group-title="Set-6",Colors HD-Rs 19
 http://180.178.188.152:8000/play/a00o
-#EXTINF:-1 group-title="Set-6",DD SPORTS- Free
+#EXTINF:-1 group-title="Set-6",DD SPORTS
 http://180.178.188.152:8000/play/a05z
-#EXTINF:-1 group-title="Set-6",DISCOVERY K-Rs3
+#EXTINF:-1 group-title="Set-6",DISCOVERY
 http://180.178.188.152:8000/play/a024
-#EXTINF:-1 group-title="Set-6",Discovery S-Rs1
+#EXTINF:-1 group-title="Set-6",Discovery
 http://180.178.188.152:8000/play/a01k
-#EXTINF:-1 group-title="Set-6",Discovery T-Rs1
+#EXTINF:-1 group-title="Set-6",Discovery 
 http://180.178.188.152:8000/play/a01l
-#EXTINF:-1 group-title="Set-6",Disney Chan-Rs8
+#EXTINF:-1 group-title="Set-6",Disney 
 http://180.178.188.152:8000/play/a01y
-#EXTINF:-1 group-title="Set-6",Disney Jr.-Rs 4
+#EXTINF:-1 group-title="Set-6",Disney 
 http://180.178.188.152:8000/play/a020
-#EXTINF:-1 group-title="Set-6",EuroSports HD-Rs 6
+#EXTINF:-1 group-title="Set-6",EuroSports HD
 http://180.178.188.152:8000/play/a00r
-#EXTINF:-1 group-title="Set-6",FOX Life HD-Rs1
+#EXTINF:-1 group-title="Set-6",FOX Life HD
 http://180.178.188.152:8000/play/a01t
-#EXTINF:-1 group-title="Set-6",HISTORY TV18 HD-Rs7
+#EXTINF:-1 group-title="Set-6",HISTORY TV18 HD
 http://180.178.188.152:8000/play/a013
-#EXTINF:-1 group-title="Set-6",Investigation Discovery-Rs1
+#EXTINF:-1 group-title="Set-6",Investigation Discovery
 http://180.178.188.152:8000/play/a00j
-#EXTINF:-1 group-title="Set-6",MAX HD -Rs 17
-http://180.178.188.152:8000/play/a00h
-#EXTINF:-1 group-title="Set-6",MH ONE - Free
+#EXTINF:-1 group-title="Set-6",MAX HD 
+#EXTINF:-1 group-title="Set-6",MH ONE 
 http://180.178.188.152:8000/play/a061
-#EXTINF:-1 group-title="Set-6",MN+ HD-Rs 10
+#EXTINF:-1 group-title="Set-6",MN+ HD-
 http://180.178.188.152:8000/play/a00u
-#EXTINF:-1 group-title="Set-6",MTV - Rs 3
+#EXTINF:-1 group-title="Set-6",MTV 
 http://180.178.188.152:8000/play/a05q
-#EXTINF:-1 group-title="Set-6",NAT Geo Wild HD-Rs 5
+#EXTINF:-1 group-title="Set-6",NAT Geo Wild HD
 http://180.178.188.152:8000/play/a00i
-#EXTINF:-1 group-title="Set-6",National G HD-Rs10
+#EXTINF:-1 group-title="Set-6",National G HD
 http://180.178.188.152:8000/play/a00x
 #EXTINF:-1 group-title="Set-6",PIX HD - Rs 15
 http://180.178.188.152:8000/play/a016
@@ -155,39 +148,39 @@ http://180.178.188.152:8000/play/a00f
 http://180.178.188.152:8000/play/a021
 #EXTINF:-1 group-title="Set-6",SONY MAX 2 - Rs 1
 http://180.178.188.152:8000/play/a01s
-#EXTINF:-1 group-title="Set-6",SONY PAL -Rs 1
+#EXTINF:-1 group-title="Set-6",SONY PAL 
 http://180.178.188.152:8000/play/a036
-#EXTINF:-1 group-title="Set-6",STAR BHARAT HD-Rs19
+#EXTINF:-1 group-title="Set-6",STAR BHARAT HD
 http://180.178.188.152:8000/play/a010
-#EXTINF:-1 group-title="Set-6",STAR MOV HD-Rs 19
+#EXTINF:-1 group-title="Set-6",STAR MOV HD
 http://180.178.188.152:8000/play/a00v
-#EXTINF:-1 group-title="Set-6",STAR WOR P HD-Rs9
+#EXTINF:-1 group-title="Set-6",STAR WOR P HD
 http://180.178.188.152:8000/play/a00a
-#EXTINF:-1 group-title="Set-6",STAR WORLD HD -Rs9
+#EXTINF:-1 group-title="Set-6",STAR WORLD HD 
 http://180.178.188.152:8000/play/a00b
-#EXTINF:-1 group-title="Set-6",Sony BBC EarHD-Rs10
+#EXTINF:-1 group-title="Set-6",Sony BBC EarHD
 http://180.178.188.152:8000/play/a015
-#EXTINF:-1 group-title="Set-6",Sony Ten 1 HD- Rs 19
+#EXTINF:-1 group-title="Set-6",Sony Ten 1 HD
 http://180.178.188.152:8000/play/a00e
-#EXTINF:-1 group-title="Set-6",Sony Ten 2 HD- Rs 17
+#EXTINF:-1 group-title="Set-6",Sony Ten 2 HD
 http://180.178.188.152:8000/play/a01a
-#EXTINF:-1 group-title="Set-6",Sony Ten 3 HD- Rs 17
+#EXTINF:-1 group-title="Set-6",Sony Ten 3 HD
 http://180.178.188.152:8000/play/a00k
-#EXTINF:-1 group-title="Set-6",Star GOLD HD -Rs10
+#EXTINF:-1 group-title="Set-6",Star GOLD HD 
 http://180.178.188.152:8000/play/a012
-#EXTINF:-1 group-title="Set-6",Star Gold 2- Rs 1
+#EXTINF:-1 group-title="Set-6",Star Gold 2
 http://180.178.188.152:8000/play/a01q
-#EXTINF:-1 group-title="Set-6",Star Gold SelHD-Rs10
+#EXTINF:-1 group-title="Set-6",Star Gold SelHD
 http://180.178.188.152:8000/play/a014
-#EXTINF:-1 group-title="Set-6",Star Plus HD -Rs19
+#EXTINF:-1 group-title="Set-6",Star Plus HD 
 http://180.178.188.152:8000/play/a00m
-#EXTINF:-1 group-title="Set-6",Star S Hin 1 HD- Rs19
+#EXTINF:-1 group-title="Set-6",Star S Hin 1 HD
 http://180.178.188.152:8000/play/a026
-#EXTINF:-1 group-title="Set-6",Star Spo 1 HD-Rs19
+#EXTINF:-1 group-title="Set-6",Star Spo 1 HD
 http://180.178.188.152:8000/play/a00c
-#EXTINF:-1 group-title="Set-6",Star Spo 2 HD- Rs19
+#EXTINF:-1 group-title="Set-6",Star Spo 2 
 http://180.178.188.152:8000/play/a00d
-#EXTINF:-1 group-title="Set-6",Star Sports 3 Rs 4
+#EXTINF:-1 group-title="Set-6",Star Sports 3 
 http://180.178.188.152:8000/play/a00l
 #EXTINF:-1 group-title="Set-6",Star Sports S 1 HD-Rs19
 http://180.178.188.152:8000/play/a018
